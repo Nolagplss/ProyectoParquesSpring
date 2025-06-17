@@ -55,15 +55,15 @@ Aunque la app no está visualmente pulida, demuestra el uso de patrones modernos
 ## 🚀 Instrucciones para ejecutar el proyecto
 
 1. **Iniciar la base de datos**  
-   Asegúrate de tener la base de datos configurada y en funcionamiento antes de iniciar el backend.  
-   Si estás usando una base en memoria o embebida (como H2), este paso puede no ser necesario.
+   Asegúrate de tener la base de datos configurada y en funcionamiento antes de iniciar el backend.
+   Abre el programa e importa el archivo .sql 
 
-2. **Importar y ejecutar el backend (Spring Boot)**  
+3. **Importar y ejecutar el backend (Spring Boot)**  
    - Abre el proyecto backend en tu IDE (por ejemplo, IntelliJ o Eclipse).  
-   - Ejecuta la aplicación Spring Boot (`ParqueApplication.kt` o clase principal con `@SpringBootApplication`).  
+   - Ejecuta la aplicación Spring Boot.  
    - El backend correrá por defecto en: `http://localhost:8080/`
 
-3. **Importar y configurar la app Android (Kotlin)**  
+4. **Importar y configurar la app Android (Kotlin)**  
    - Abre el proyecto Android en Android Studio.  
    - En el archivo `ContenedorAppParques.kt`, modifica la propiedad `baseUrl` para que apunte a tu IP local (la de tu PC donde corre el backend).  
 
