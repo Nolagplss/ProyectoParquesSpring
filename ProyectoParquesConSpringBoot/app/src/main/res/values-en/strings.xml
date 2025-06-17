@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="nombre_especie">Species name</string>
+    <string name="descripcion_especie">Species description</string>
+    <string name="nombre">Name</string>
+    <string name="extension">Extension</string>
+    <string name="cantidad_especies">Species count</string>
+    <string name="insertar_especie">Insert Species</string>
+    <string name="nombre_parque">Park name</string>
+    <string name="extension_del_parque">Park extension</string>
+    <string name="ingresar_especies">Enter species?</string>
+    <string name="id_de_la_especie">Species ID</string>
+    <string name="buscar_especie">Search Species</string>
+    <string name="especie_encontrada">Species found: %1$s</string>
+    <string name="agregar_especie">Add Species</string>
+    <string name="especie_no_encontrada">Species not found.</string>
+    <string name="insertar_parque">Insert Park</string>
+    <string name="mostrar_especies">Show species</string>
+    <string name="no_tiene_especies">No species available</string>
+    <string name="insertarparques">InsertParks</string>
+    <string name="inicio">Home</string>
+    <string name="insertarespecie">InsertSpecies</string>
+    <string name="obtenerespecies">GetSpecies</string>
+    <string name="actualizar_especie">Update species</string>
+    <string name="actualizar_parque">Update park</string>
+    <string name="obtener_parques">Get Parks</string>
+    <string name="obtener_parques_room">Get parks room</string>
+    <string name="registro_de_parques_insertados">Inserted parks record</string>
+    <string name="parque_room_pulsado">Park Room Clicked</string>
+    <string name="actualizar_parque_room">Update park room</string>
+    <string name="tipo_especie">Species type</string>
+    <string name="actualizar">Update</string>
+</resources>

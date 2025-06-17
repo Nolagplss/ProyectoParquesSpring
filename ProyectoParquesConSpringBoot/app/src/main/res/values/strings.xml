@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="insertarparques">InsertarParques</string>
+    <string name="inicio">Inicio</string>
+    <string name="insertarespecie">InsertarEspecie</string>
+    <string name="obtenerespecies">ObtenerEspecies</string>
+    <string name="actualizar_especie">Actualizar especie</string>
+    <string name="actualizar_parque">Actualizar parque</string>
+    <string name="obtener_parques">Obtener Parques</string>
+    <string name="obtener_parques_room">Obtener parques room</string>
+    <string name="registro_de_parques_insertados">Registro de parques insertados</string>
+    <string name="parque_room_pulsado">Parque Room Pulsado</string>
+    <string name="actualizar_parque_room">Actualizar parque room</string>
+    <string name="nombre_especie">Nombre especie</string>
+    <string name="descripcion_especie">Descripcion especie</string>
+    <string name="tipo_especie">Tipo especie</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="nombre">Nombre</string>
+    <string name="extension">Extension</string>
+    <string name="cantidad_especies">Cantidad especies</string>
+    <string name="insertar_especie">Insertar Especie</string>
+    <string name="nombre_parque">Nombre parque</string>
+    <string name="extension_del_parque">Extension del parque</string>
+    <string name="ingresar_especies">¿Ingresar especies?</string>
+    <string name="id_de_la_especie">Id de la especie</string>
+    <string name="buscar_especie">Buscar Especie</string>
+    <string name="especie_encontrada">Especie encontrada: %1$s</string>
+    <string name="agregar_especie">Agregar Especie</string>
+    <string name="especie_no_encontrada">Especie no encontrada.</string>
+    <string name="insertar_parque">Insertar Parque</string>
+    <string name="mostrar_especies">Mostrar especies</string>
+    <string name="no_tiene_especies">No tiene especies</string>
+</resources>
